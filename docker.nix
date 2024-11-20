@@ -2,8 +2,10 @@
 
 {
   environment.systemPackages = with pkgs; [
-    cowsay
+     compose2nix
+     lazydocker 
   ];
+
 
 }
 
