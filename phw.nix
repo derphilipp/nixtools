@@ -18,6 +18,8 @@
      zoxide
   ];
 
+  programs.fish.enable = true;
+
 
 }
 
